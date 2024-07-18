@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me: por mis redes o correo.
 - 😄 Pronouns: quique
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: siempre me gusto el mundo de la programacion pero no me habia animado a aprender.
 
 <!---
 leonidas198/leonidas198 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
