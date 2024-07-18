@@ -2,8 +2,8 @@
 - 👀 I’m interested in la programacion
 - 🌱 I’m currently estudiando analista de sistemas, pero tambien aprendiendo por mi cuenta.
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: por mis redes o correo.
+- 😄 Pronouns: quique
 - ⚡ Fun fact: ...
 
 <!---
